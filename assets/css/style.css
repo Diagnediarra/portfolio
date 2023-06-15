@@ -9,26 +9,20 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
-*{
-  font-family: 'Josefin Sans', sans-serif;
-  padding: 0;
-  margin: 0;
-  box-sizing: border-box;
-}
 body {
-  font-family: 'Josefin Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   color: #444444;
 }
 
 a {
-  color:    #f9004d;
-
+  color: #f9004d;
+  ;
   text-decoration: none;
 }
 
 a:hover {
-  color:      #f9004d;
-
+  color:       #f9004d;
+  ;
   text-decoration: none;
 }
 
@@ -38,8 +32,9 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Josefin Sans', sans-serif;
+  font-family: "Raleway", sans-serif;
 }
+
 
 /*--------------------------------------------------------------
 # Back to top button
@@ -686,6 +681,7 @@ section {
   text-transform: uppercase;
   color:#f9004d;
   margin-bottom: 10px;
+  
 }
 
 .resume .resume-item h5 {
